@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/wtforms/wtforms/commit/ae8f4b41332a5a0fe6e8a14839487c476c175ba7",
       "git:hexsha": "ae8f4b41332a5a0fe6e8a14839487c476c175ba7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:43:17.600499+00:00"
     },
     {
       "@id": "https://repolex.ai/r/wtforms/wtforms/commit/f26312c5a98c39b434e8349db0e1933c781d43bf",
